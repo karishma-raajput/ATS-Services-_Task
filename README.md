@@ -23,6 +23,7 @@ Tools Used:
 Project Structure
 - sentiment analysis for tweets project
 - model.pkl
+- python_application.py
 - vectorizer.pkl
 - README.md
 
