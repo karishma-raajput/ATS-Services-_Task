@@ -21,10 +21,9 @@ Tools Used:
 - Pickle
 
 Project Structure
+- sentiment analysis for tweets project
 - model.pkl
 - vectorizer.pkl
-- twitter_data.csv
-- sentiment analysis for tweets project
 - README.md
 
 Model Workflow
