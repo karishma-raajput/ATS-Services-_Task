@@ -43,7 +43,11 @@ Run the Appliction
 - Lauch VS Code and open the folder where your project file eg python_application.py
 - open terminal in VS Code
 - type the following command : streamlit run python_application.py
-- eg
+- Positive Tweet Example
   
 <img width="1913" height="913" alt="image" src="https://github.com/user-attachments/assets/f40ef4ae-5597-4527-91eb-659d297ff562" />
+
+- Negative Tweet Example
+
+<img width="1909" height="923" alt="image" src="https://github.com/user-attachments/assets/80695915-2deb-4f86-abc0-7ab796a4ba21" />
 
