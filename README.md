@@ -38,3 +38,12 @@ Model Performance
 Training Model Accuracy : 80.23%
 Test Model Accuracy : 77.65%
 Model Used : Logistic Regression
+
+Run the Appliction
+- Lauch VS Code and open the folder where your project file eg python_application.py
+- open terminal in VS Code
+- type the following command : streamlit run python_application.py
+- eg
+  
+<img width="1913" height="913" alt="image" src="https://github.com/user-attachments/assets/f40ef4ae-5597-4527-91eb-659d297ff562" />
+
